@@ -1,0 +1,141 @@
+[application-info]
+application id: AA00CC83SJ
+date: 31-JUL-2023
+first 5 letters of surname: SATTA
+year of birth: 1991
+in what city did you meet your spouse/significant other? CHENNAI
+
+[personal-1]
+surname: SATTARSAHEB
+given name: FARJANA
+sex: FEMALE
+marital status: MARRIED
+dob: 01-JUN-1991
+city: KALLUR
+state/province: ANDHRA PRADESH
+country/region: INDIA
+
+
+[personal-2]
+country/region of origin: INDIA
+U.S. ssn: 710-40-4698
+
+
+[travel]
+purpose of trip to the U.S: TEMPORARY WORKER(H)
+specify: SPOUSE OF AN H (H4)
+principal applicant information:
+	surnames: KANDUKURI
+	given names: GIRAJ KUMAR
+	application receipt/petition number: EAC2206251760
+intended date of arrival: 31-JAN-2024
+intended length of stay in U.S: 3 YEAR(S)
+address where you will stay in the U.S.
+	8000 TODDWICK CT
+	RALIEGH
+	NORTH CAROLINA
+	27616
+person/entity paying for your trip: SELF
+
+
+[travel companions]
+surnames of person traveling with you: KANDUKURI
+given names of person travleing with you: ANANTHARA GIRAJ
+relationship with person: CHILD
+
+
+[previous U.S. travel information]
+date arrived: 19-JAN-2013; length of stay: 14 MONTHS
+date arrived: 13-JUL-2014; lenght of stay: 14 MONTHS
+date arrived: 27-MAR-2016; length of stay: 17 MONTHS
+date arrived: 21-APR-2018; length of stay: 12 MONTHS
+date arrived: 23-JUL-2019; length of stay: 48 MONTHS
+driver's license number: NA
+state of driver's license: NA
+previous U.S. visas:
+	date last visa was issued: 16-APR-2018
+	visa number: N1653179
+have you ever been refused a U.S. visa, or been refused
+admission to the United States, or withdrawn your 
+application for admission at the port of entry?
+	WAS ISSUED 221(G) BUT SUBSEQUENLTY APPROVED UPON PROVIDING ADDITIONAL INFORMATION
+
+[passport information]
+passport/travel document type: REGULAR
+passport/travel document number: W7039007
+country/authority that issued passport/travel document: INDIA
+Where was the last passport/travel document issued:
+	city: WASHINGTON DC
+	state: WASHINGTON DC
+	country/region: USA
+issue date: 12-JUN-2023
+expiration date: 11-JUN-2033
+
+
+[U.S. point of contact information]
+contact person
+	surnames: VADDI
+	given names: NIKHIL
+organization name: FIDELITY INVESTMENTS
+relationship to you: FRIEND
+U.S. address, phone number, and email:
+	2709 JESTER DR
+	APEX
+	NORTH CAROLINA
+	27523-7122
+	7174199229
+	sunnytoofunny@gmail.com
+
+[family information: relatives]
+father's full name and date of birth:
+	given names: SATTARSAHEB
+mother's full name and date of birth:
+	given names: NOORJAHAN
+
+
+[family information: spouse]
+	surnames: KANDUKURI
+	given names: GIRAJ KUMAR
+	dob: 23-OCT-1986
+	country/region of origin: INDIA
+	spouse's place of birth: NARASINGAPURAM
+	country/region: INDIA
+
+[present work/education/training information]
+primary occupation: ENGINEERING
+present employer or school name: COPE HEALTH SOLUTIONS
+present employer or school address:
+	1150 SOUTH OLIVE ST
+	SUITE 1200
+	LOS ANGELES
+	CALIFORNIA
+	90015
+	phone number: 2132590245
+start date: 12-SEP-2021
+monthly income in local currency: 3460
+briefly describe your duties:
+	Maintain and improve of current ETL processes and data models
+	Support new client implementations and provide analytics support for existing clients	
+
+	
+have you attended any educational institutions at a secondary level or above?
+	name of institution: GOVERNMENT POLYTECHNIC COLLEGE FOR WOMEN
+	street address:
+		W455+H79, TIRUPPARANKUNRAM RD
+		JAIHINDPURAM
+		MADURAI
+		TAMIL NADU
+		625011
+		INDIA
+	date of attendance from: 01-JUL-2007
+	date of attendance to: 31-APR-2010
+		
+
+		
+
+
+
+
+
+
+
